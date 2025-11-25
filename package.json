@@ -1,5 +1,5 @@
 {
-  "name": "node-red-contrib-taiponrock",
+  "name": "node-red-contrib-taiponrock-batta",
   "version": "1.0.0",
   "description": "A Node-RED node that converts input to Taiponrock",
   "main": "node.js",
